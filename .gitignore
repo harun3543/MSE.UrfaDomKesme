@@ -1,0 +1,12 @@
+# gitignore template for TwinCAT3
+# website: https://www.beckhoff.com/twincat3/
+#
+# Recommended: VisualStudio.gitignore
+
+
+DomKesme - Copy/
+DomKesme - Copy.backup/
+DomKesme.backup/
+
+[safe]
+    directory = *
